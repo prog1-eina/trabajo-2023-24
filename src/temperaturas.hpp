@@ -63,4 +63,3 @@ void obtenerTempsLocalAnual(TempsLocalAnual& temperaturas, bool& ok);
  *       usuario y asigna a «todoOk» el valor «false». 
  */
 void obtenerTodasTempsLocalidad(TempsLocalAnual tempsAnuales[], bool& todoOk);
-
