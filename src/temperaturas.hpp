@@ -45,7 +45,7 @@ struct TempsLocalAnual {
  *       para la localidad solicitada o si no se pueden leer los ficheros,
  *       muestra un mensaje de error al usuario y asigna a «ok» el valor «false». 
  */
-void obtenerTempsLocalAnual(TempsLocalAnual& temperaturas, bool& ok);
+void obtenerTempsLocalAnual(TempsLocalAnual &temperaturas, bool &ok);
 
 
 /*
@@ -62,4 +62,4 @@ void obtenerTempsLocalAnual(TempsLocalAnual& temperaturas, bool& ok);
  *       o si no se pueden leer los ficheros, muestra un mensaje de error al
  *       usuario y asigna a «todoOk» el valor «false». 
  */
-void obtenerTodasTempsLocalidad(TempsLocalAnual tempsAnuales[], bool& todoOk);
+void obtenerTodasTempsLocalidad(TempsLocalAnual tempsAnuales[], bool &todoOk);

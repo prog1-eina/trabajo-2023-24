@@ -37,7 +37,7 @@ using namespace std;
  *              Noviembre    10.2 °C   50.4 °F
  *              Diciembre     7.6 °C   45.7 °F
  */
-void listarTemperaturas(const TempsLocalAnual& temperaturas);
+void listarTemperaturas(const TempsLocalAnual &temperaturas);
 
 
 /*
@@ -54,7 +54,7 @@ void listarTemperaturas(const TempsLocalAnual& temperaturas);
  *              Temperatura media anual:           13.3 °C
  *              Desviación típica:                  6.5 °C
  */
-void estadisticos(const TempsLocalAnual& temperaturas);
+void estadisticos(const TempsLocalAnual &temperaturas);
 
 /*
  * Pre:  El vector «tempsAnuales» tiene una dimensión de «NUM_AGNOS» componentes.
@@ -118,7 +118,7 @@ void evolucion(const TempsLocalAnual tempsAnuales[]);
  *                     +------------------------------------------------
  *                         1   2   3   4   5   6   7   8   9  10  11  12
  */
-void escribirGrafico(const TempsLocalAnual& temperaturas, ostream& flujo);
+void escribirGrafico(const TempsLocalAnual &temperaturas, ostream &flujo);
 
 /*
  * Pre:  El vector «tempsAnuales» tiene una dimensión de «NUM_AGNOS» componentes.
@@ -133,4 +133,4 @@ void escribirGrafico(const TempsLocalAnual& temperaturas, ostream& flujo);
  *       problemas y «false» en caso contrario.
  */
 void escribirGraficos(const TempsLocalAnual tempsAnuales[], const string nombreFichero,
-                      bool& escrituraOk);
+                      bool &escrituraOk);
