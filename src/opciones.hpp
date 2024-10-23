@@ -2,7 +2,7 @@
  * Programación 1. Trabajo de asignatura del curso 2023-24
  * Autores: Miguel Ángel Latre
  * Modificado por: ¡¡¡PONED AQUÍ VUESTROS NOMBRES!!!
- * Ultima revisión: ¡¡¡!!!
+ * Última revisión: ¡¡¡!!!
  * Resumen: Fichero de interfaz de un módulo que ofrece funciones para
  *          implementar las opciones del menú del programa principal de este
  *          trabajo a partir de grupos de temperaturas ya obtenidas

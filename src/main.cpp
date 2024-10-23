@@ -1,7 +1,7 @@
 /******************************************************************************\
  * Programación 1. Trabajo de asignatura del curso 2023-24
  * Autores: ¡¡¡PONED AQUÍ VUESTROS NOMBRES!!!
- * Ultima revisión: ¡¡¡!!!
+ * Última revisión: ¡¡¡!!!
  * Resumen: ¡¡¡!!!
  * Nota: El código de este programa está repartido en varios módulos.
  *       Para compilarlo, hay que ejecutar el comando

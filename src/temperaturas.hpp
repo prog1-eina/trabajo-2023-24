@@ -2,7 +2,7 @@
  * Programación 1. Trabajo de asignatura del curso 2023-24
  * Autores: Miguel Ángel Latre
  * Modificado por: ¡¡¡PONED AQUÍ VUESTROS NOMBRES!!!
- * Ultima revisión: ¡¡¡!!!
+ * Última revisión: ¡¡¡!!!
  * Resumen: Fichero de interfaz de un módulo para trabajar con registros que 
  *          representan grupos de temperaturas mensuales de una localidad en un
  *          año, con funciones que permiten obtener esos datos de los ficheros
